@@ -28,3 +28,5 @@ c.execute(
 )
 
 conn.close()
+
+# python createdb.py

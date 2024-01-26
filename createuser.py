@@ -18,3 +18,5 @@ def create_user(username, password):
 
 
 create_user("admin", "admin")
+
+# python createuser.py
