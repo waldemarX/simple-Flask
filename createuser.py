@@ -17,4 +17,4 @@ def create_user(username, password):
     conn.close()
 
 
-create_user("admin", "pass")
+create_user("admin", "admin")
