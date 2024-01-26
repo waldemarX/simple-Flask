@@ -1,1 +1,1 @@
-### Simple site template with Flask and SQLite
+### Simple page with Flask and SQLite
